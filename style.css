@@ -90,3 +90,8 @@
     border-radius: 4px;
     font-weight: bold;
 }
+#container{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+}
