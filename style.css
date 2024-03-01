@@ -72,3 +72,21 @@
     background-color: white;
 
   }
+  .firstsection{
+    display: flex;
+    padding: 100px;
+}
+.green{
+    height: 500px;
+    width:600px;
+    margin-left:10%;
+    margin-right: 20%;
+}
+#buttonArrow{
+    background-position: right 24px center;
+    border: none;
+    background-color: blue;
+    padding: 12px 48px 12px 24px;
+    border-radius: 4px;
+    font-weight: bold;
+}
